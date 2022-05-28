@@ -6,3 +6,4 @@ dns-server = system, 8.8.8.8, 8.8.4.4
 [Rule]
 
 DOMAIN-SUFFIX,rachelsenglishacademy.com,Proxy
+DOMAIN-SUFFIX,msecnd.net,Proxy
