@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,msecnd.net,Proxy
 DOMAIN-SUFFIX,okx.com,Proxy
 DOMAIN-SUFFIX,wnacg.org,Proxy
 DOMAIN-SUFFIX,developer.apple.com,Proxy
+DOMAIN-SUFFIX,api.track.toggl.com,Proxy
