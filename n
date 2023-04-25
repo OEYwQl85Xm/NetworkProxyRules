@@ -355,7 +355,6 @@ DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,callofduty.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,superhotgame.com
-!/== STEAM
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 
@@ -363,14 +362,10 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,makemepulse.com
 DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,myfonts.net
-
-# ========== SHOPPING ==========
-#  EBAY
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,ebay-us.com
 DOMAIN-SUFFIX,online-metrix.net
 
-# ========== OTHERS ==========
 DOMAIN-SUFFIX,inpandora.com
 DOMAIN-SUFFIX,workona.com
 DOMAIN-SUFFIX,producthunt.com
@@ -378,29 +373,16 @@ DOMAIN-SUFFIX,workona.com.*
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,geekbench.com
-
-# ========== CHAT ==========
 DOMAIN-SUFFIX,omegle.onl
 DOMAIN-SUFFIX,tedrighor.top
 DOMAIN-SUFFIX,omegle.com
 DOMAIN-SUFFIX,kik.com
-
-# ========== LITTLE ==========
 DOMAIN-SUFFIX,yigeni.com
-
-# ========== APP ==========
 DOMAIN-SUFFIX,iina.io
-
-# ========== INDUSTRY ==========
 DOMAIN-SUFFIX,spacex.com
-
-
-# ========== MOTOR ==========
 DOMAIN-SUFFIX,iomttraces.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,typekit.net
-
-# ========== HOSTSERVER ==========
 DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,comodo.com
