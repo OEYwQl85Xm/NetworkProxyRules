@@ -4,8 +4,6 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,wnacg.org
 DOMAIN-SUFFIX,developer.apple.com
 DOMAIN-SUFFIX,api.track.toggl.com
-
-# ========== GOOGLE ==========
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,about.google
 DOMAIN-SUFFIX,googletagservices
@@ -21,45 +19,30 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,gstatic.com,RPOXY
-
-#  MAP
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlesyndication.com
-#  BLOGGER
 DOMAIN-SUFFIX,blogger.com
-#  GMAIL
 DOMAIN-SUFFIX,gmail.com
-#  AD
 DOMAIN-SUFFIX,googleadservices.com
-# Calendar
 DOMAIN-SUFFIX,calendar.com
 DOMAIN-SUFFIX,static.zdassets.com
-# CHROMIUM.ORG
 DOMAIN-SUFFIX,chromium.org
-# GOOGLEBLOG
 DOMAIN-SUFFIX,googleblog.com
-
-# ========== SOFT ==========
 DOMAIN-SUFFIX,duetdisplay.com
 DOMAIN-SUFFIX,rime.im
-# Termius
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,firebaseio.com
-# MindNode
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,analytics.ideasoncanvas.com
 DOMAIN-SUFFIX,picpick.app
 DOMAIN-SUFFIX,discord.com
-# Divoom
 DOMAIN-SUFFIX,divoom.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,chatra.io
-# Tiktok
 DOMAIN-SUFFIX,tiktok.com
 
 # ========== APPLE ==========
