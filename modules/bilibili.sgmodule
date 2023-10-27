@@ -2,7 +2,7 @@
 #!desc=B站去广告
 
 [Rule]
-DOMAIN-SUFFIX,cm.bilibili.com,REJECT
-DOMAIN-SUFFIX,ug-data.mihoyo.com,REJECT
-DOMAIN-SUFFIX,udata-app.open.yostar.net,REJECT
-DOMAIN-SUFFIX,biligame.com,REJECT
+DOMAIN-SUFFIX,cm.bilibili.com,REJECT-DROP
+DOMAIN-SUFFIX,ug-data.mihoyo.com,REJECT-DROP
+DOMAIN-SUFFIX,udata-app.open.yostar.net,REJECT-DROP
+DOMAIN-SUFFIX,biligame.com,REJECT-DROP
